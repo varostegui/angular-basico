@@ -38,3 +38,21 @@
   .p-1 {
     padding: 1px;
   }
+
+  .row {
+    display: flex;
+  }
+
+  .col {
+    flex-grow: 1;
+    margin-right: 25px;
+  }
+
+  input {
+    display: block;
+    margin: 5px;
+  }
+
+  hr {
+    margin-right: 30px;
+  }
